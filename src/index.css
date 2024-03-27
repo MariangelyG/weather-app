@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://www.caribbeannewsdigital.com/sites/default/files/2019-12/Paris.jpg.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    margin: 0;
+    object-fit: cover;
+    
+}
+
+.imgP{
+width: 100px;
+height: 100px;
+}
+
+.imagenClima {
+    max-width: 150px;
+}
